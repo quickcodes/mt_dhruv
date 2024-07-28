@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826760163346",
+    "project_id": "mt-dhruv",
+    "storage_bucket": "mt-dhruv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826760163346:android:1627a996b5467f675a68cb",
+        "android_client_info": {
+          "package_name": "com.example.mt_dhruv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1BFWX3pRvucIIqB1to1bg5OW_3FmIQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826760163346:android:b75e569dbeb90c1f5a68cb",
+        "android_client_info": {
+          "package_name": "com.example.mtdhruv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1BFWX3pRvucIIqB1to1bg5OW_3FmIQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
